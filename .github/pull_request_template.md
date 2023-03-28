@@ -4,6 +4,14 @@
 ## Related Issue(s)
 <!-- List any related issues that the feature addresses or solves. -->
 
+## Type of change
+Please delete options that don't apply.
+
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] This change requires a documentation update
+
 ## Changes Made
 <!-- Describe the changes made to implement the feature. -->
 
